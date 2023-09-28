@@ -1,0 +1,18 @@
+{
+  "name": "task-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "events_custom-class-with-emitter-method.js",
+  "scripts": {
+    "1": "node events_test",
+    "2": "node fs",
+    "3": "node http",
+    "4": "node os",
+    "5": "node path",
+    "6": "node process",
+    "7": "node stream"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
